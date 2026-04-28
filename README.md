@@ -1,16 +1,16 @@
-# 🚴 Biker Zone
+#  Biker Zone
 
 Biker Zone is a simple and responsive bike-related website built using Tailwind CSS and DaisyUI. This project showcases a modern UI design for displaying bikes, customer reviews, and useful information for bike lovers.
 
-## 🔗 Live Website
+##  Live Website
 https://biker-zone375.netlify.app/
 
-## 📂 Repository
+##  Repository
 https://github.com/MdBelayet3/Bicker-zone-daisy-ui
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This is a frontend practice project where I focused on building a clean and responsive UI using Tailwind CSS and DaisyUI components. The website represents a bike showroom or marketplace with featured bikes, latest news, client reviews, and FAQs.
 
@@ -18,7 +18,7 @@ The main goal of this project was to improve my UI design skills and understand 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Responsive design for mobile, tablet, and desktop
 - Modern UI using DaisyUI components
@@ -30,13 +30,11 @@ The main goal of this project was to improve my UI design skills and understand 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - Tailwind CSS
 - DaisyUI
-
-> DaisyUI is a component library built on top of Tailwind CSS that helps create beautiful UI faster with fewer class names. :contentReference[oaicite:0]{index=0}
 
 ---
 
