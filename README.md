@@ -46,3 +46,6 @@ The main goal of this project was to improve my UI design skills and understand 
 - Happy Clients (Reviews)
 - Frequently Asked Questions
 - Footer
+
+
+  ![Image Description](https://github.com/MdBelayet3/Bicker-zone-daisy-ui/blob/main/Biker-zone.png?raw=true)
